@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnnybasketballl
 - 👀 I’m interested in basketball and coding
-- 🌱 I’m currently learning the language Java at my school as well as study Swift/IOS Development on the side!
+- 🌱 I’m currently studying Computer Science at The University of North Florida as well as study Swift/IOS Development on the side!
 - 💞️ I’m looking to collaborate on whatever fulfills me
 - 📫 How to reach me email!! johnwallacecodes@gmail.com
 
